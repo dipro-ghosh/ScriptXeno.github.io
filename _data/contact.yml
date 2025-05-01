@@ -15,57 +15,57 @@
   noblank: true
 
 - type: mastodon
-  icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
-  url:  'https://mastodon.social/@oceanofanything'                  # Fill with your Mastodon account page, rel="me" will be applied for verification
+  icon: 'fab fa-mastodon'
+  url:  'https://mastodon.social/@oceanofanything'
 
 - type: linkedin
-  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url:  'https://linkedin.com/in/nakshatra-ranjan-saha-93a31b262'                  # Fill with your Linkedin homepage
+  icon: 'fab fa-linkedin'
+  url:  'https://linkedin.com/in/nakshatra-ranjan-saha-93a31b262'
 
 - type: stack-overflow
   icon: 'fab fa-stack-overflow'
-  url:  'https://stackoverflow.com/users/ocean-of-anything'                  # Fill with your stackoverflow homepage
+  url:  'https://stackoverflow.com/users/ocean-of-anything'
 
 - type: bluesky
   icon: 'fa-brands fa-bluesky'
-  url: 'https://bsky.app/profile/oceanofanything'                   # Fill with your Bluesky profile link
+  url: 'https://bsky.app/profile/oceanofanything'
 
 - type: reddit
   icon: 'fa-brands fa-reddit'
-  url: 'https://reddit.com/user/OCEANOFANYTHING'                   # Fill with your Reddit profile link
+  url: 'https://reddit.com/user/OCEANOFANYTHING'
 
 - type: threads
   icon: 'fa-brands fa-threads'
-  url: 'https://threads.net/@oceanofanything'                   # Fill with your Threads profile link
+  url: 'https://threads.net/@oceanofanything'
 
 - type: instagram
-  icon: 'fa-brands fa-instagram'                                # icons powered by <https://fontawesome.com/>
+  icon: 'fa-brands fa-instagram'
   url: 'https://instagram.com/oceanofanything'
 
 - type: behance
-  icon: 'fa-brands fa-behance'                                # icons powered by <https://fontawesome.com/>
+  icon: 'fa-brands fa-behance'
   url: 'https://behance.net/nakshatranjan'
 
 - type: medium
-  icon: 'fa-brands fa-medium'                                # icons powered by <https://fontawesome.com/>
+  icon: 'fa-brands fa-medium'
   url: 'https://medium.com/@oceanofanything'
 
 - type: pinterest
-  icon: 'fa-brands fa-pinterest'                                # icons powered by <https://fontawesome.com/>
+  icon: 'fa-brands fa-pinterest'
   url: 'https://pinterest.com/oceanofanything'
 
 - type: quora
-  icon: 'fa-brands fa-quora'                                # icons powered by <https://fontawesome.com/>
+  icon: 'fa-brands fa-quora'
   url: 'https://quora.com/profile/Nakshatra-Ranjan-Saha'
 
 - type: twitch
-  icon: 'fa-brands fa-twitch'                                # icons powered by <https://fontawesome.com/>
+  icon: 'fa-brands fa-twitch'
   url: 'https://twitch.tv/oceanofanything'
 
 - type: codepen
-  icon: 'fa-brands fa-codepen'                                # icons powered by <https://fontawesome.com/>
+  icon: 'fa-brands fa-codepen'
   url: 'https://codepen.io/OCEANOFANYTHINGOFFICIAL'
 
 - type: devto
-  icon: 'fa-brands fa-dev'                                # icons powered by <https://fontawesome.com/>
+  icon: 'fa-brands fa-dev'
   url: 'https://dev.to/oceanofanythingofficial'
