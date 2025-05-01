@@ -214,7 +214,7 @@ Powered by `dnspython`, it performs **resilient and precise lookups** with fallb
 
 - Fork, clone, and create feature branches  
 - Follow best practices and lint your code  
-- See [CONTRIBUTING.md](CONTRIBUTING.md) for more  
+- See [CONTRIBUTING.md](https://github.com/OCEANOFANYTHING/SmartSubAI/blob/main/contributing.md) for more  
 
 ---
 
