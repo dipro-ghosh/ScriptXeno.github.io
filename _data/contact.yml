@@ -37,3 +37,35 @@
 - type: threads
   icon: 'fa-brands fa-threads'
   url: 'https://threads.net/@oceanofanything'                   # Fill with your Threads profile link
+
+- type: instagram
+  icon: 'fa-brands fa-instagram'                                # icons powered by <https://fontawesome.com/>
+  url: 'https://instagram.com/oceanofanything'
+
+- type: behance
+  icon: 'fa-brands fa-behance'                                # icons powered by <https://fontawesome.com/>
+  url: 'https://behance.net/nakshatranjan'
+
+- type: medium
+  icon: 'fa-brands fa-medium'                                # icons powered by <https://fontawesome.com/>
+  url: 'https://medium.com/@oceanofanything'
+
+- type: pinterest
+  icon: 'fa-brands fa-pinterest'                                # icons powered by <https://fontawesome.com/>
+  url: 'https://pinterest.com/oceanofanything'
+
+- type: quora
+  icon: 'fa-brands fa-quora'                                # icons powered by <https://fontawesome.com/>
+  url: 'https://quora.com/profile/Nakshatra-Ranjan-Saha'
+
+- type: twitch
+  icon: 'fa-brands fa-twitch'                                # icons powered by <https://fontawesome.com/>
+  url: 'https://twitch.tv/oceanofanything'
+
+- type: codepen
+  icon: 'fa-brands fa-codepen'                                # icons powered by <https://fontawesome.com/>
+  url: 'https://codepen.io/OCEANOFANYTHINGOFFICIAL'
+
+- type: devto
+  icon: 'fa-brands fa-dev'                                # icons powered by <https://fontawesome.com/>
+  url: 'https://dev.to/oceanofanythingofficial'
