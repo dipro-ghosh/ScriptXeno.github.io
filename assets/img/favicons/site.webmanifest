@@ -3,6 +3,7 @@ layout: compress
 ---
 
 {% assign favicon_path = "assets/img/favicons" | relative_url %}
+{% assign screenshot_path = "assets/img/screenshots" | relative_url %}
 
 {
   "name": "{{ site.title }}",
@@ -19,6 +20,20 @@ layout: compress
       "sizes": "512x512",
       "type": "image/png"
     }],
+  "screenshots": [
+  {
+    "src": "{{ screenshot_path }}/homepage-wide.png",
+    "type": "image/png",
+    "sizes": "1280x720",
+    "form_factor": "wide"
+  },
+  {
+    "src": "{{ screenshot_path }}/homepage-narrow.png",
+    "type": "image/png",
+    "sizes": "720x1280",
+    "form_factor": "narrow"
+  }],
+
   "start_url": "{{ '/index.html' | relative_url }}",
   "theme_color": "#2a1e6b",
   "background_color": "#ffffff",
