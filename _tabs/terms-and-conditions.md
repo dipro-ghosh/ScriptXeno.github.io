@@ -1,6 +1,7 @@
 ---
 title: Terms and Conditions
 layout: page
+permalink: /terms-and-conditions/
 icon: fas fa-file-contract
 order: 6
 toc: true
