@@ -2,7 +2,7 @@
 title: About
 layout: page
 permalink: /about/
-author: Nakshatra Ranjan Saha
+author: oceanofanything
 description: Discover more about ScriptXeno, the mind behind the scripts, and the mission driving the content.
 image:
   path: /assets/logo/logo.png
