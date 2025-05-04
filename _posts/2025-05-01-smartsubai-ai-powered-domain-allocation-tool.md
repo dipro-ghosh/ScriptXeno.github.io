@@ -2,7 +2,7 @@
 title: "SmartSubAI: Revolutionizing Subdomain Enumeration with AI-Powered Risk Assessment"
 description: "Discover SmartSubAI — an AI-powered subdomain enumeration tool that combines high-speed DNS scanning with intelligent risk assessment for smarter, more efficient cybersecurity reconnaissance."
 author: "oceanofanything"
-date: 2025-05-01 10:00:00 +0530
+date: 2025-05-01 10:00:00
 parmalink: /smartsubai-ai-powered-domain-allocation-tool/
 categories: [cybersecurity, subdomain-enumeration]
 tags: [subdomain, enumeration, recon, dns, ai, cohere, risk-assessment, penetration-testing, bug-bounty, cybersecurity, hacking, ethical-hacking, reconnaissance, automation, dns-records]
