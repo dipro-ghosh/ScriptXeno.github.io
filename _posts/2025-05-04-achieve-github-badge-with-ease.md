@@ -13,7 +13,6 @@ image:
 
 # Achieve Pull Shark and Pair Extraordinaire Badge with Ease
 
-Hey GitHubbers! 👋
 If you've ever scrolled through someone's profile and seen those cool little badges like “Pull Shark” or “Pair Extraordinaire,” you’ve probably wondered: How do I get those?
 Well, you're in luck. Today, we’re diving deep into a smart automation tool that helps you earn these GitHub badges without breaking a sweat.
 
@@ -32,7 +31,6 @@ Well, you're in luck. Today, we’re diving deep into a smart automation tool th
     - [**Designed for Simplicity and Productivity**](#designed-for-simplicity-and-productivity)
   - [**🚀 Key Features of the Badge Automation Script**](#-key-features-of-the-badge-automation-script)
     - [**Smart Branch Naming with gen\_branch\_name()**](#smart-branch-naming-with-gen_branch_name)
-    - [**Real File Changes That Count**](#real-file-changes-that-count)
     - [**Git Commands Managed Seamlessly**](#git-commands-managed-seamlessly)
     - [**Full Pull Request Cycle with GitHub CLI**](#full-pull-request-cycle-with-github-cli)
     - [**Custom Iteration \& Timing Control**](#custom-iteration--timing-control)
@@ -46,9 +44,9 @@ Well, you're in luck. Today, we’re diving deep into a smart automation tool th
   - [**🔍 Behind the Code: Functions Explained**](#-behind-the-code-functions-explained)
     - [**Branch Generator: gen\_branch\_name()**](#branch-generator-gen_branch_name)
     - [**Git Branch Creation**](#git-branch-creation)
-    - [**Editing text.txt for Contribution Validity**](#editing-texttxt-for-contribution-validity)
+    - [**Editing `text.txt` for Contribution Validity**](#editing-texttxt-for-contribution-validity)
     - [**Command Execution and Error Handling**](#command-execution-and-error-handling)
-    - [**The main() Flow Controller**](#the-main-flow-controller)
+    - [**The `main()` Flow Controller**](#the-main-flow-controller)
   - [**⚙️ Customization Options**](#️-customization-options)
     - [**Personalized Commit Messages**](#personalized-commit-messages)
     - [**Collaborator Support for Pair Extraordinaire**](#collaborator-support-for-pair-extraordinaire)
@@ -118,16 +116,6 @@ hotfix-blaze-999
 
 It's smart, catchy, and clean—perfect for maintaining a tidy Git history.
 
-### **Real File Changes That Count**
-
-This isn’t fake automation. It modifies `text.txt` by appending real content like:
-
-```txt
-# Update: Added on 2025-05-04 at 3:45 PM
-```
-
-This ensures your PRs **count as genuine contributions**.
-
 ### **Git Commands Managed Seamlessly**
 
 No need to memorize git syntax. The `run_command()` function does it all:
@@ -137,7 +125,8 @@ No need to memorize git syntax. The `run_command()` function does it all:
 - `git commit`
 - `git push`
 
-And yes, it logs everything so you know what happened and when.
+> And yes, it logs everything so you know what happened and when.
+{:.prompt-info }
 
 ### **Full Pull Request Cycle with GitHub CLI**
 
@@ -189,7 +178,7 @@ git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
 cd YOUR-REPO-NAME
 ```
 
-Place `main.py` here.
+Place `main.py`{: .filepath} here.
 
 ---
 
@@ -214,12 +203,12 @@ python main.py
 The script will prompt:
 
 - Number of iterations? e.g., `5`
-- Delay between runs? e.g., `120` seconds
+- Delay between runs? e.g., `100` (max) seconds
 
 Each iteration will:
 
 - Create a **new branch**
-- Modify `text.txt`
+- Modify `text.txt`{: .filepath}
 - Push changes
 - Create + merge a PR
 
@@ -261,7 +250,7 @@ git checkout -b branch_name
 
 Straight from main.
 
-### **Editing text.txt for Contribution Validity**
+### **Editing `text.txt` for Contribution Validity**
 
 `add_change_to_text_file("text.txt")` appends timestamped text like:
 
@@ -273,7 +262,7 @@ Updated on 2025-05-04 at 04:00 PM
 
 `run_command(cmd)` runs shell commands and prints output. If something fails? You’ll see it.
 
-### **The main() Flow Controller**
+### **The `main()` Flow Controller**
 
 Handles:
 
@@ -289,7 +278,7 @@ All neatly packaged.
 
 ### **Personalized Commit Messages**
 
-Edit this in `main.py`:
+Edit this in `main.py`{: .filepath}:
 
 ```python
 COMMIT_MESSAGE = "Minor update to text file"
@@ -316,21 +305,32 @@ Modify `words1` and `words2` in `gen_branch_name()` to suit your project’s vib
 **Console Input:**
 
 ```text
-How many times do you want to run the script? 3  
-How long do you want to wait between runs? 120
+How many times do you want to run the script? 3
+How long do you want to wait between runs? 100
 ```
 
 **Console Output:**
 
 ```bash
-✅ Created branch: bugfix-hawk-481  
-✅ Edited text.txt  
-✅ Committed: “Minor update to text file”  
-✅ Pushed to GitHub  
-✅ Pull request created and merged
+How many times do you want to run the script? 1
+How long do you want to wait between runs? (in seconds) 1
+Switched to a new branch 'technology-traveling-investigator-4434'
+Branch technology-traveling-investigator-4434 created
+File text.txt already exists
+Small change added to text.txt
+
+[technology-traveling-investigator-4434 *******] Added a small change to text.txt
+ 1 file changed, 1 insertion(+)
+
+https://github.com/your-username/your-repo-name/pull/25
+
+
+Your branch is up to date with 'origin/main'.
+
+Finished run 1 of 1
 ```
 
-And then it repeats.
+And then it repeats if you set more iterations.
 
 ---
 
@@ -346,7 +346,7 @@ Use this for:
 
 ### **Avoiding GitHub Rate Limits and Spam**
 
-Respect delays. Set the interval to **100+ seconds** per run.
+Respect delays. Set the interval to **100 seconds** per run.
 
 ---
 
@@ -366,7 +366,7 @@ Respect delays. Set the interval to **100+ seconds** per run.
 
 Fork it. Use it. Improve it.
 
-PRs are welcome—just follow the `CONTRIBUTING.md` guide.
+PRs are welcome—just follow the [`CONTRIBUTING.md`](https://github.com/OCEANOFANYTHING/achieve-pull-shark-and-pair-extraordinaire-badge-with-ease/blob/main/CONTRIBUTING.MD) guide.
 
 ---
 
@@ -416,8 +416,3 @@ Yes! Just make sure Python, Git, and `gh` are installed.
 
 **Q5: Can I schedule this script to run daily?**
 Yes. Use cron (Linux/macOS) or Task Scheduler (Windows) for automation.
-
----
-
-Please don’t forget to leave a review.
-Explore more by joining me on [Patreon](https://www.patreon.com/jumma/shop/lifetime-access-to-my-exclusive-prompts-3213?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_fan&utm_content=join_link)
