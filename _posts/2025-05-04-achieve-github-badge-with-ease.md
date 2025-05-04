@@ -79,7 +79,7 @@ Think of GitHub badges as digital trophies. They're like those shiny medals game
 <!-- markdownlint-disable -->
 
 > These badges don’t just look cool—they show you're a team player and an active contributor.
-{:..prompt-tip }
+{:.prompt-tip }
 
 ---
 
