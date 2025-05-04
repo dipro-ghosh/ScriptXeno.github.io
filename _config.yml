@@ -123,11 +123,13 @@ comments:
     repo_id: R_kgDOOiyncg
     category: General
     category_id: DIC_kwDOOiyncs4CpqlU
-    mapping: <title>
+    mapping: title
     strict: 1
     input_position: bottom
     lang: # optional, default to the value of `site.lang`
+    theme: dark_dimmed
     reactions_enabled: 1
+    metadata: true
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
