@@ -75,9 +75,6 @@ Think of GitHub badges as digital trophies. They're like those shiny medals game
 - **Pull Shark**: Awarded when you open and merge a high number of pull requests.
 - **Pair Extraordinaire**: Earned by co-authoring PRs with fellow developers—an indicator of teamwork.
 
-<!-- markdownlint-capture -->
-<!-- markdownlint-disable -->
-
 > These badges don’t just look cool—they show you're a team player and an active contributor.
 {:.prompt-tip }
 
