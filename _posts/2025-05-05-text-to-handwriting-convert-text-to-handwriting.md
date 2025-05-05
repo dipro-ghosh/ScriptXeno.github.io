@@ -139,7 +139,8 @@ Writing on plain paper is boring. That’s why this tool comes with cool **paper
 - Winds of Paris
 - Waves
 
-Feeling creative? You can even **upload your own paper image** and write on it!
+> Feeling creative? You can even **upload your own paper image** and write on it!
+{:.prompt-info }
 
 ---
 
