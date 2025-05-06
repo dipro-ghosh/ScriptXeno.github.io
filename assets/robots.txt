@@ -2,9 +2,10 @@
 permalink: /robots.txt
 # The robots rules
 ---
-
 User-agent: *
 
+Disallow: /8224327bc30e4fd28859be57075c7439.txt
+Disallow: /cgi-bin/
 Disallow: /norobots/
 
-Sitemap: {{ '/sitemap.xml' | absolute_url }}
+Sitemap: https://scriptxeno.github.io/sitemap.xml
