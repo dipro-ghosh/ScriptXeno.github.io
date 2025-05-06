@@ -61,7 +61,7 @@ analytics:
   google:
     id: G-7YG9Z7YCCH
   goatcounter:
-    id: # fill in your GoatCounter ID
+    id: scriptxeno
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
