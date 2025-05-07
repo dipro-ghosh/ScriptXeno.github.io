@@ -1,6 +1,6 @@
 ---
 title: "Operation Sindoor: Precision Strikes by Indian Armed Forces"
-date: 2025-05-07 22:13:39
+date: 2025-05-07 22:13:39 +5:30
 categories: [news, military]
 author: oceanofanything
 permalink: /operation-sindoor-7th-may/
