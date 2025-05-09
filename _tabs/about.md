@@ -3,7 +3,7 @@ title: About
 layout: page
 permalink: /about/
 author: oceanofanything
-description: Discover more about ScriptXeno, the mind behind the scripts, and the mission driving the content.
+description: "This is the About page of ScriptXeno. Discover more about ScriptXeno, the mind behind the scripts, and the mission driving the content."
 image:
   path: /assets/logo/logo.png
   alt: ScriptXeno logo
