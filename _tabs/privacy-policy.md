@@ -5,7 +5,8 @@ permalink: /privacy-policy/
 toc: true
 order: 5
 icon: fas fa-user-shield
-description: "Privacy Policy Page of Our Website"
+description: "Privacy Policy Page of Our Website ScriptXeno. Read Our Privacy Policy to Know How We Handle Your Personal Information and Data."
+author: oceanofanything
 ---
 
 # Privacy Policy

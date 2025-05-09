@@ -5,7 +5,7 @@ permalink: /terms-and-conditions/
 icon: fas fa-file-contract
 order: 6
 toc: true
-description: "Terms and Conditions Page of Our Website"
+description: "Terms and Conditions Page of Our Website ScriptXeno. Read Our Terms and Conditions to Know the Rules and Regulations for Using Our Website."
 ---
 
 # Terms and Conditions

@@ -5,7 +5,8 @@ parmalink: /cookies/
 icon: fas fa-cookie
 order: 7
 toc: true
-description: "Cookies Policy Page of Our Website"
+description: "Cookies Policy Page of Our Website ScriptXeno. Read Our Cookies Policy to Know How We Use Cookies and Similar Technologies to Recognize You When You Visit Our Website."
+author: oceanofanything
 ---
 
 # COOKIE POLICY
