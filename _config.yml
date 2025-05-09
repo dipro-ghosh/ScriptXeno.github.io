@@ -229,3 +229,12 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+defaults:
+  - scope:
+      path: "rss.xml"
+    values:
+      sitemap: true
+      layout: rss
+      content_type: "application/rss+xml"
+
