@@ -1,0 +1,57 @@
+---
+layout: null
+permalink: /rss.xml
+---
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>{{ site.title }}</title>
+    <link>{{ site.url }}</link>
+    <description>{{ site.description }}</description>
+    <language>{{ site.lang | default: "en-us" }}</language>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <generator>Jekyll</generator>
+    <image>
+      <url>{{ site.url }}/assets/img/favicons/favicon-96x96.png</url>
+      <title>{{ site.title }}</title>
+      <link>{{ site.url }}</link>
+    </image>
+
+    {% for post in site.posts limit: 10 %}
+    <item>
+      <title>{{ post.title | xml_escape }}</title>
+      <link>{{ post.url | absolute_url }}</link>
+      <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+
+      <!-- Short Description (no full content) -->
+      <description>
+        {% capture desc %}{% include post-description.html max_length=400 %}{% endcapture %}
+        {{ desc | xml_escape }}
+      </description>
+
+      <!-- Image for Pin using Enclosure -->
+      {% if post.featured_image %}
+        <enclosure url="{{ post.featured_image | absolute_url }}" type="image/jpeg" />
+      {% endif %}
+
+      <!-- Optional media:content if available -->
+      {% if post.featured_image %}
+        <media:content url="{{ post.featured_image | absolute_url }}" type="image/jpeg" />
+      {% endif %}
+
+      <!-- Optional categories -->
+      {% if post.categories %}
+        <category>{{ post.categories | join: ', ' }}</category>
+      {% endif %}
+
+      <!-- Optional tags -->
+      {% if post.tags %}
+        <tags>{{ post.tags | join: ', ' }}</tags>
+      {% endif %}
+
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
