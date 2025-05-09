@@ -21,11 +21,15 @@ I’m **Nakshatra Ranjan Saha**, the developer and designer behind ScriptXeno. I
 - Thoughtful takes on the **developer lifestyle**
 - Resources for **developers, designers**, and **tech tinkerers**
 - Guides, tutorials, and unique tools for building smarter
+- Regular NEWS update on any topic, not just tech
+- A sprinkle of **personal projects** and **experiments**
+- A dash of **humor** and **creativity** to keep things fun
+- A community of like-minded individuals who share a passion for technology and creativity
 
 ### 🌐 My Presence Elsewhere
 
 - [GitHub](https://github.com/OCEANOFANYTHING)
-- [Twitter / X](https://twitter.com/OceanAnything)
+- [Twitter / X](https://twitter.com/oceanofanything)
 - [LinkedIn](https://linkedin.com/in/nakshatra-ranjan-saha-93a31b262)
 - [Facebook](https://facebook.com/nakshatra.ranjan.saha)
 
