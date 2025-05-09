@@ -3,9 +3,21 @@ permalink: /robots.txt
 # The robots rules
 ---
 User-agent: *
-
 Disallow: /8224327bc30e4fd28859be57075c7439.txt
 Disallow: /cgi-bin/
 Disallow: /norobots/
+
+# Allow crawling of GitHub Pages JS, CSS, fonts, etc.
+Allow: /*.js$
+Allow: /*.css$
+Allow: /*.woff$
+Allow: /*.woff2$
+Allow: /*.ttf$
+Allow: /*.eot$
+Allow: /*.svg$
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.gif$
 
 Sitemap: https://scriptxeno.github.io/sitemap.xml
