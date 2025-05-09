@@ -4,7 +4,7 @@ permalink: /rss.xml
 ---
 
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>{{ site.title }}</title>
     <link>{{ site.url }}</link>
@@ -31,14 +31,10 @@ permalink: /rss.xml
         {{ desc | xml_escape }}
       </description>
 
-      <!-- Image for Pin using Enclosure -->
-      {% if post.featured_image %}
-        <enclosure url="{{ post.featured_image | absolute_url }}" type="image/jpeg" />
-      {% endif %}
-
-      <!-- Optional media:content if available -->
-      {% if post.featured_image %}
-        <media:content url="{{ post.featured_image | absolute_url }}" type="image/jpeg" />
+      <!-- Enclosure and media:content using image.path -->
+      {% if post.image and post.image.path %}
+        <enclosure url="{{ post.image.path | absolute_url }}" type="image/jpeg" />
+        <media:content url="{{ post.image.path | absolute_url }}" type="image/jpeg" />
       {% endif %}
 
       <!-- Optional categories -->
@@ -50,7 +46,6 @@ permalink: /rss.xml
       {% if post.tags %}
         <tags>{{ post.tags | join: ', ' }}</tags>
       {% endif %}
-
     </item>
     {% endfor %}
   </channel>
