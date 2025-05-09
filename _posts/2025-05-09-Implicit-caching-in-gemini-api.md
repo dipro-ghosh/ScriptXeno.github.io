@@ -2,7 +2,7 @@
 title: "Google’s Gemini API Now Automatically Cuts AI Costs by 75% with Implicit Caching"
 description: "Google introduces implicit caching in Gemini 2.5 models, offering up to 75% cost savings for developers by automatically reusing repetitive prompt context."
 category: [AI, Google]
-tags: [Gemini API, implicit caching, Google AI, token savings, AI cost reduction]
+tags: [gemini-api, implicit-caching, google-ai, token-savings, ai-cost-reduction, day-2]
 author: oceanofanything
 date: 2025-05-09 10:00:00
 permalink: /google-gemini-api-implicit-caching/
