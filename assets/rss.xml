@@ -4,10 +4,11 @@ permalink: /rss.xml
 ---
 
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>{{ site.title }}</title>
     <link>{{ site.url }}</link>
+    <atom:link href="{{ site.url }}/rss.xml" rel="self" type="application/rss+xml" />
     <description>{{ site.description }}</description>
     <language>{{ site.lang | default: "en-us" }}</language>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
@@ -25,27 +26,25 @@ permalink: /rss.xml
       <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 
-      <!-- Short Description (no full content) -->
+      <!-- Short Description -->
       <description>
         {% capture desc %}{% include post-description.html max_length=400 %}{% endcapture %}
         {{ desc | xml_escape }}
       </description>
 
-      <!-- Enclosure and media:content using image.path -->
+      <!-- Image as enclosure and media:content -->
       {% if post.image and post.image.path %}
-        <enclosure url="{{ post.image.path | absolute_url }}" type="image/jpeg" />
+        <enclosure url="{{ post.image.path | absolute_url }}" type="image/jpeg" length="0" />
         <media:content url="{{ post.image.path | absolute_url }}" type="image/jpeg" />
       {% endif %}
 
-      <!-- Optional categories -->
+      <!-- Categories -->
       {% if post.categories %}
-        <category>{{ post.categories | join: ', ' }}</category>
+        {% for category in post.categories %}
+        <category>{{ category }}</category>
+        {% endfor %}
       {% endif %}
 
-      <!-- Optional tags -->
-      {% if post.tags %}
-        <tags>{{ post.tags | join: ', ' }}</tags>
-      {% endif %}
     </item>
     {% endfor %}
   </channel>
