@@ -19,5 +19,6 @@ Allow: /*.png$
 Allow: /*.jpg$
 Allow: /*.jpeg$
 Allow: /*.gif$
+Allow: /
 
 Sitemap: https://scriptxeno.github.io/sitemap.xml
