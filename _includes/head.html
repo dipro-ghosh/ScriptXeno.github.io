@@ -123,4 +123,8 @@
   {% endif %}
 
   {% include metadata-hook.html %}
+  {% if page.twitter_embed %}
+    <script src="{{ '/assets/js/twitter_embed.js' | relative_url }}"></script>
+  {% endif %}
+
 </head>
