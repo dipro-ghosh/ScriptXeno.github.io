@@ -1,5 +1,5 @@
 ---
-title: About
+title: About ScriptXeno
 layout: page
 permalink: /about/
 author: oceanofanything
