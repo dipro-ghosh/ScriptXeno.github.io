@@ -4,6 +4,7 @@ permalink: /robots.txt
 ---
 User-agent: *
 Disallow: /8224327bc30e4fd28859be57075c7439.txt
+Disallow: /pinterest-54db3.html
 Disallow: /cgi-bin/
 Disallow: /norobots/
 
