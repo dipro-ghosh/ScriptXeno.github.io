@@ -1,5 +1,5 @@
 ---
-title: "How to Achieve the Pull Shark and Pair Extraordinaire Badge on GitHub with Ease | ScriptXeno"
+title: "How to Achieve the Pull Shark and Pair Extraordinaire Badge on GitHub with Ease"
 description: "Learn how to automate GitHub pull request workflows to effortlessly earn the Pull Shark and Pair Extraordinaire badges with a lightweight, customizable open-source tool."
 author: oceanofanything
 date: 2025-05-04 10:00:00

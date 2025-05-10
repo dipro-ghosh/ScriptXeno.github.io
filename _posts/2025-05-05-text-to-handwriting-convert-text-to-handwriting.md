@@ -1,5 +1,5 @@
 ---
-title: "Convert Text to Handwriting with This Free Online Tool | Perfect for Assignments | ScriptXeno"
+title: "Convert Text to Handwriting with This Free Online Tool | Perfect for Assignments"
 description: "Turn your typed text into realistic handwriting with the free Text-to-Handwriting tool. Customize fonts, paper themes, ink colors, and export as PDF — ideal for students and creatives!"
 author: moon
 date: 2025-05-05 10:00:00

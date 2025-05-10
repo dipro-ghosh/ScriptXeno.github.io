@@ -1,5 +1,5 @@
 ---
-title: "SmartSubAI: Revolutionizing Subdomain Enumeration with AI-Powered Risk Assessment | ScriptXeno"
+title: "SmartSubAI: Revolutionizing Subdomain Enumeration with AI-Powered Risk Assessment"
 description: "Discover SmartSubAI — an AI-powered subdomain enumeration tool that combines high-speed DNS scanning with intelligent risk assessment for smarter, more efficient cybersecurity reconnaissance."
 author: oceanofanything
 date: 2025-05-01 10:00:00

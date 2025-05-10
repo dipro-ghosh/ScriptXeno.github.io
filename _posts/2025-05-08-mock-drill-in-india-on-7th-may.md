@@ -1,5 +1,5 @@
 ---
-title: "Operation Abhyaas: India's Nationwide Civil Defence Mock Drill on May 7, 2025 | ScriptXeno"
+title: "Operation Abhyaas: India's Nationwide Civil Defence Mock Drill on May 7, 2025"
 description: "Full overview of India's Operation Abhyaas, the nationwide civil defence mock drill conducted on May 7, 2025, across 244 districts."
 author: oceanofanything
 date: 2025-05-08 10:00:00
