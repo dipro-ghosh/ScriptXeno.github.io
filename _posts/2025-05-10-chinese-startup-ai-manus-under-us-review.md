@@ -1,5 +1,5 @@
 ---
-title: "Benchmark’s Investment in Chinese AI Startup Manus Under U.S. Review"
+title: "Benchmark’s Investment in Chinese AI Startup Manus Under U.S. Review | ScriptXeno"
 description: "The U.S. government is examining Benchmark’s investment in Manus AI, citing compliance issues with 2023 restrictions on Chinese tech. Here’s what’s at stake."
 date: 2025-05-10
 author: "oceanofanything"

@@ -1,5 +1,5 @@
 ---
-title: "Operation Sindoor Day 2: Tensions Escalate Between India and Pakistan"
+title: "Operation Sindoor Day 2: Tensions Escalate Between India and Pakistan | ScriptXeno"
 date: 2025-05-08 11:00:00
 categories: [news, military]
 author: oceanofanything

@@ -1,5 +1,5 @@
 ---
-title: "MailGrab – The Ultimate Email Scraper That Does It All"
+title: "MailGrab – The Ultimate Email Scraper That Does It All | ScriptXeno"
 description: "MailGrab is an advanced Python-based email scraper that auto-discovers URLs, harvests bulk emails, and stores them automatically. Perfect for marketers, researchers, and developers."
 author: oceanofanything
 date: 2025-05-02 10:00:00

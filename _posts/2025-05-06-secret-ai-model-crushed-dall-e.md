@@ -1,5 +1,5 @@
 ---
-title: "Recraft AI: The Secret Startup That Quietly Outshined DALL·E and Midjourney"
+title: "Recraft AI: The Secret Startup That Quietly Outshined DALL·E and Midjourney | ScriptXeno"
 description: "Discover how Recraft, an AI startup with a unique image generator, beat DALL·E and Midjourney on benchmarks and raised $30M to reshape the future of brand-focused design."
 author: [oceanofanything, moon]
 date: 2025-05-06 10:00:00

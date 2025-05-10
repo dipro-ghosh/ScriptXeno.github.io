@@ -1,5 +1,5 @@
 ---
-title: "Operation Sindoor: Precision Strikes by Indian Armed Forces"
+title: "Operation Sindoor: Precision Strikes by Indian Armed Forces | ScriptXeno"
 description: "India's military operation Sindoor targets terror camps in Pakistan and Pakistan-administered Kashmir, following the Pahalgam attack"
 date: 2025-05-07 22:13:39 +5:30
 categories: [news, military]

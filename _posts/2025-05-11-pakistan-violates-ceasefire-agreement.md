@@ -1,5 +1,5 @@
 ---
-title: "Pakistan Violates Ceasefire Agreement with India"
+title: "Pakistan Violates Ceasefire Agreement with India | ScriptXeno"
 description: "India and Pakistan agree to a sudden ceasefire after heightened border tensions, but violations and explosions raise doubts about its stability."
 date: 2025-05-11
 categories: [Politics, South Asia, Conflict & Peace]
