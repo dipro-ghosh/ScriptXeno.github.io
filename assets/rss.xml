@@ -28,7 +28,7 @@ permalink: /rss.xml
 
       <!-- Short Description -->
       <description>
-        {{ include post-description.html max_length=400 | strip_html | strip_newlines | xml_escape }}
+        {% include post-description.html max_length=400 %}
       </description>
 
       <!-- Image as enclosure and media:content -->
