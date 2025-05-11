@@ -62,6 +62,7 @@ Although the ceasefire brings hope, key issues remain unresolved:
 In Pakistan-administered **Muzaffarabad**, locals welcomed the ceasefire with hope.
 
 {%raw%}
+<script async="async" data-cfasync="false" src="https://pl26616663.profitableratecpm.com/93500646ba3c9ecea0b1bd094d136131/invoke.js"></script>
 <div id="container-93500646ba3c9ecea0b1bd094d136131"></div>
 {%endraw%}
 
