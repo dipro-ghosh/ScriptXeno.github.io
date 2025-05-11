@@ -64,14 +64,14 @@ In Pakistan-administered **Muzaffarabad**, locals welcomed the ceasefire with ho
 {%raw%}
 <script type="text/javascript">
 	atOptions = {
-		'key' : '19d7a3655e8446feee5c4fce3ced875c',
+		'key' : 'e790d6d5d53ad675ad53d13f5dcff8e8',
 		'format' : 'iframe',
-		'height' : 60,
-		'width' : 468,
+		'height' : 50,
+		'width' : 320,
 		'params' : {}
 	};
 </script>
-<script type="text/javascript" src="https://wirelessbin.com/19d7a3655e8446feee5c4fce3ced875c/invoke.js"></script>
+<script type="text/javascript" src="https://wirelessbin.com/e790d6d5d53ad675ad53d13f5dcff8e8/invoke.js"></script>
 {%endraw%}
 
 > _“For us, peace means survival,”_ said **Zulfikar Ali**. _“We’ve suffered enough.”_
