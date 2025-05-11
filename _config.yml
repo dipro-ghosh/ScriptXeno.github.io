@@ -220,6 +220,7 @@ exclude:
 include:
   - 8224327bc30e4fd28859be57075c7439.txt
   - pinterest-54db3.html
+  - 082200f18d09767a8096.txt
 
 jekyll-archives:
   enabled: [categories, tags]
