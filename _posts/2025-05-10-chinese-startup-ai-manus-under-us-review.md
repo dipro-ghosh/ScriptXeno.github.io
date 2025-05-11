@@ -16,6 +16,11 @@ image:
 
 In a high-stakes clash of innovation and international policy, a headline-grabbing investment by Benchmark in Chinese AI startup Manus is now under scrutiny. At the heart of the issue is a complex mix of geopolitical tensions, venture capital ambition, and the ever-blurring lines between artificial intelligence development and national security.
 
+{%raw%}
+<script async="async" data-cfasync="false" src="https://pl26616663.profitableratecpm.com/93500646ba3c9ecea0b1bd094d136131/invoke.js"></script>
+<div id="container-93500646ba3c9ecea0b1bd094d136131"></div>
+{%endraw%}
+
 ## Table of Contents
 
 - [Benchmark’s Investment in Chinese AI Startup Manus Under U.S. Review](#benchmarks-investment-in-chinese-ai-startup-manus-under-us-review)
@@ -70,6 +75,19 @@ As part of its national security mandate, the U.S. Treasury — via the Committe
 
 Benchmark’s investment in Manus AI was headline news. A $75 million round is massive for any early-stage startup, especially one still in the infrastructure and tooling phase. The involvement of a top-tier VC like Benchmark lent credibility and excitement to the deal.
 
+{%raw%}
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'e790d6d5d53ad675ad53d13f5dcff8e8',
+		'format' : 'iframe',
+		'height' : 50,
+		'width' : 320,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="https://wirelessbin.com/e790d6d5d53ad675ad53d13f5dcff8e8/invoke.js"></script>
+{%endraw%}
+
 But now, that very endorsement may be what brought the startup under the microscope.
 
 ### Valuation and Market Reaction
@@ -111,6 +129,17 @@ But Treasury is reportedly questioning whether Manus’s **functional operations
 Benchmark's legal team reportedly justified the investment by pointing out that Manus AI does **not** create its own foundation models — instead, it builds user-friendly wrappers around existing platforms like OpenAI, Anthropic, and others. This technicality, they argue, places Manus outside the direct scope of the U.S. restrictions.
 
 They also emphasized Manus’s **Cayman Islands incorporation** as proof it isn’t “China-based” under the letter of the law. But critics argue that such structuring is cosmetic at best when **core operations, developers, or data handling** remain under Chinese jurisdiction or influence.
+
+<script type="text/javascript">
+	atOptions = {
+		'key' : '837e46ded4686f2137efb7a651d937f0',
+		'format' : 'iframe',
+		'height' : 600,
+		'width' : 160,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="https//wirelessbin.com/837e46ded4686f2137efb7a651d937f0/invoke.js"></script>
 
 It’s a classic Silicon Valley legal strategy: comply with the rules on paper while stretching the boundaries in practice. However, the geopolitical climate may no longer tolerate such nuance.
 

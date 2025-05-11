@@ -15,6 +15,11 @@ alt: "Operation Abhyaas 2025 Civil Defence Mock Drill in India"
 
 In response to escalating tensions and emerging threats, India conducted a comprehensive civil defence mock drill, codenamed **Operation Abhyaas**, on **May 7, 2025**. This large-scale exercise spanned **244 districts** across the nation, aiming to bolster emergency preparedness and public awareness.
 
+{%raw%}
+<script async="async" data-cfasync="false" src="https://pl26616663.profitableratecpm.com/93500646ba3c9ecea0b1bd094d136131/invoke.js"></script>
+<div id="container-93500646ba3c9ecea0b1bd094d136131"></div>
+{%endraw%}
+
 ## Table of Contents
 
 - [Operation Abhyaas: India's Nationwide Civil Defence Mock Drill on May 7, 2025](#operation-abhyaas-indias-nationwide-civil-defence-mock-drill-on-may-7-2025)
@@ -142,6 +147,17 @@ The public largely responded positively, recognizing the importance of preparedn
 ![A Closer Look](https://scriptxeno.github.io/2025-05-08-mock-drill-in-india-on-7th-may-images/5.webp){:.shadow}
 
 In the ever-evolving landscape of global and regional security, **mock drills like Operation Abhyaas are not just precautionary—they're vital**. India, with its diverse geography and dense urban populations, faces a wide array of potential threats ranging from natural disasters to terrorist activities and even wartime scenarios. The country’s expanding infrastructure, strategic installations, and critical public zones demand robust preparedness.
+
+<script type="text/javascript">
+	atOptions = {
+		'key' : '837e46ded4686f2137efb7a651d937f0',
+		'format' : 'iframe',
+		'height' : 600,
+		'width' : 160,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="https//wirelessbin.com/837e46ded4686f2137efb7a651d937f0/invoke.js"></script>
 
 Operation Abhyaas served multiple critical functions:
 

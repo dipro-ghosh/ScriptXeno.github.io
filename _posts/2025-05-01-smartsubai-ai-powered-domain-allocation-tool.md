@@ -18,6 +18,12 @@ Ever found yourself tangled in endless lists of subdomains during reconnaissance
 
 **SmartSubAI** is an innovative tool that combines traditional subdomain enumeration with **AI-driven risk assessment**. It brings automation and intelligence together to help you identify and prioritize high-risk assets effortlessly.
 
+{%raw%}
+<script async="async" data-cfasync="false" src="https://pl26616663.profitableratecpm.com/93500646ba3c9ecea0b1bd094d136131/invoke.js"></script>
+<div id="container-93500646ba3c9ecea0b1bd094d136131"></div>
+{%endraw%}
+
+
 In today's cybersecurity landscape, effective subdomain enumeration is essential for robust reconnaissance and risk mitigation. SmartSubAI introduces a game-changing approach by merging traditional DNS enumeration with AI-powered risk assessment, offering cybersecurity professionals an intelligent way to identify and prioritize vulnerable subdomains. Whether you're into penetration testing, bug bounty hunting, or managing digital assets, SmartSubAI streamlines your workflow with automation, precision, and actionable insights—making it the go-to tool for ethical hackers and security analysts in 2025.
 
 ## 📚 Table of Contents
@@ -204,6 +210,19 @@ python smartsubai.py -d example.com --limit 50
 ### Cohere AI Integration
 
 SmartSubAI uses **Cohere**’s large language model to make intelligent decisions about subdomain importance.
+
+{%raw%}
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'e790d6d5d53ad675ad53d13f5dcff8e8',
+		'format' : 'iframe',
+		'height' : 50,
+		'width' : 320,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="https://wirelessbin.com/e790d6d5d53ad675ad53d13f5dcff8e8/invoke.js"></script>
+{%endraw%}
 
 ### DNS Resolution Engine
 

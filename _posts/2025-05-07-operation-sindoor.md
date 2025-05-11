@@ -16,6 +16,11 @@ image:
 
 India's military has launched **Operation Sindoor** — a series of precision strikes on terrorist camps across Pakistan and Pakistan-administered Kashmir. The operation is a direct response to the **Pahalgam terror attack**, where 25 Indian civilians and one Nepali tourist lost their lives.
 
+{%raw%}
+<script async="async" data-cfasync="false" src="https://pl26616663.profitableratecpm.com/93500646ba3c9ecea0b1bd094d136131/invoke.js"></script>
+<div id="container-93500646ba3c9ecea0b1bd094d136131"></div>
+{%endraw%}
+
 This post breaks down the operation's objective, execution, and implications for India-Pakistan relations and global geopolitics.
 
 ## Table of Contents
@@ -110,6 +115,17 @@ Kashmir continues to be a **hotbed of militancy** and tension:
 | 2016 | Uri attack → Surgical Strikes |
 | 2019 | Pulwama attack → Balakot airstrikes |
 | 2025 | Pahalgam attack → Operation Sindoor |
+
+<script type="text/javascript">
+	atOptions = {
+		'key' : '837e46ded4686f2137efb7a651d937f0',
+		'format' : 'iframe',
+		'height' : 600,
+		'width' : 160,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="https//wirelessbin.com/837e46ded4686f2137efb7a651d937f0/invoke.js"></script>
 
 ## 🌐 Global Reactions
 

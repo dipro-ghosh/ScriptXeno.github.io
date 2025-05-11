@@ -16,6 +16,11 @@ image:
 If you've ever scrolled through someone's profile and seen those cool little badges like “Pull Shark” or “Pair Extraordinaire,” you’ve probably wondered: How do I get those?
 Well, you're in luck. Today, we’re diving deep into a smart automation tool that helps you earn these GitHub badges without breaking a sweat.
 
+{%raw%}
+<script async="async" data-cfasync="false" src="https://pl26616663.profitableratecpm.com/93500646ba3c9ecea0b1bd094d136131/invoke.js"></script>
+<div id="container-93500646ba3c9ecea0b1bd094d136131"></div>
+{%endraw%}
+
 ## Table of Contents
 
 - [Achieve Pull Shark and Pair Extraordinaire Badge with Ease](#achieve-pull-shark-and-pair-extraordinaire-badge-with-ease)
@@ -143,6 +148,19 @@ You get to define:
 
 - How many PRs to make
 - Delay between actions (so you don’t get flagged for spam)
+
+{%raw%}
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'e790d6d5d53ad675ad53d13f5dcff8e8',
+		'format' : 'iframe',
+		'height' : 50,
+		'width' : 320,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="https://wirelessbin.com/e790d6d5d53ad675ad53d13f5dcff8e8/invoke.js"></script>
+{%endraw%}
 
 ---
 

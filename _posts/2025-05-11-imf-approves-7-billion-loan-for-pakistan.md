@@ -14,6 +14,11 @@ image:
 
 The International Monetary Fund (IMF) has officially approved a fresh **$1.4 billion climate resilience loan** to Pakistan while simultaneously **releasing $1 billion in support** as part of an ongoing **$7 billion economic reform program**. This move comes amidst global financial uncertainty and heightened geopolitical tensions in South Asia.
 
+{%raw%}
+<script async="async" data-cfasync="false" src="https://pl26616663.profitableratecpm.com/93500646ba3c9ecea0b1bd094d136131/invoke.js"></script>
+<div id="container-93500646ba3c9ecea0b1bd094d136131"></div>
+{%endraw%}
+
 ## **Pakistan Secures New IMF Backing Amid Economic Recovery Efforts**
 
 On **May 9, 2025**, the IMF’s executive board gave a green light to the **first review** of the $7 billion bailout program with Pakistan. As a result, the country will immediately receive **$1 billion** in cash disbursements to support its economy and stability roadmap.
@@ -39,6 +44,17 @@ India's reaction stems from heightened tensions following a **deadly April attac
 Pakistan's **Prime Minister Muhammad Shehbaz Sharif** wasted no time in responding, stating:
 
 > “India's attempts to sabotage the IMF program have failed.”
+
+<script type="text/javascript">
+	atOptions = {
+		'key' : '837e46ded4686f2137efb7a651d937f0',
+		'format' : 'iframe',
+		'height' : 600,
+		'width' : 160,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="https//wirelessbin.com/837e46ded4686f2137efb7a651d937f0/invoke.js"></script>
 
 This strong rebuttal highlights how financial diplomacy is now entangled with regional tensions. Despite India’s objection, the IMF proceeded with the approval, indicating that the financial institution continues to evaluate loan programs on technical merit and economic indicators.
 
@@ -83,6 +99,19 @@ Following this major approval, Pakistan is now expected to:
 - Deliver results under the climate resilience framework
 
 The government has signaled its readiness to **comply with IMF benchmarks** and ensure that the funds are properly used to support the country’s recovery.
+
+{%raw%}
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'e790d6d5d53ad675ad53d13f5dcff8e8',
+		'format' : 'iframe',
+		'height' : 50,
+		'width' : 320,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="https://wirelessbin.com/e790d6d5d53ad675ad53d13f5dcff8e8/invoke.js"></script>
+{%endraw%}
 
 ## **Final Thoughts**
 
