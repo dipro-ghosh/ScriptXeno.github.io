@@ -61,6 +61,10 @@ Although the ceasefire brings hope, key issues remain unresolved:
 
 In Pakistan-administered **Muzaffarabad**, locals welcomed the ceasefire with hope.
 
+{%raw%}
+<div id="container-93500646ba3c9ecea0b1bd094d136131"></div>
+{%endraw%}
+
 > _“For us, peace means survival,”_ said **Zulfikar Ali**. _“We’ve suffered enough.”_
 
 Security analysts like **Sahar Khan** warn the situation is still fragile. The **2021 ceasefire**, reinstated in 2023, was already under strain before the latest escalation.
