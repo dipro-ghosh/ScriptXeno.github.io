@@ -54,7 +54,7 @@ Pakistan's **Prime Minister Muhammad Shehbaz Sharif** wasted no time in respondi
 		'params' : {}
 	};
 </script>
-<script type="text/javascript" src="https//wirelessbin.com/837e46ded4686f2137efb7a651d937f0/invoke.js"></script>
+<script type="text/javascript" src="https://wirelessbin.com/837e46ded4686f2137efb7a651d937f0/invoke.js"></script>
 
 This strong rebuttal highlights how financial diplomacy is now entangled with regional tensions. Despite India’s objection, the IMF proceeded with the approval, indicating that the financial institution continues to evaluate loan programs on technical merit and economic indicators.
 

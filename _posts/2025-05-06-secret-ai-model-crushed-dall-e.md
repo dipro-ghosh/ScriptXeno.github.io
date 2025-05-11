@@ -186,7 +186,7 @@ No more clunky edits. Recraft places logos exactly where they need to be—and t
 		'params' : {}
 	};
 </script>
-<script type="text/javascript" src="https//wirelessbin.com/837e46ded4686f2137efb7a651d937f0/invoke.js"></script>
+<script type="text/javascript" src="https://wirelessbin.com/837e46ded4686f2137efb7a651d937f0/invoke.js"></script>
 
 ---
 

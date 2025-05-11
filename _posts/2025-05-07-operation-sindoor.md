@@ -125,7 +125,7 @@ Kashmir continues to be a **hotbed of militancy** and tension:
 		'params' : {}
 	};
 </script>
-<script type="text/javascript" src="https//wirelessbin.com/837e46ded4686f2137efb7a651d937f0/invoke.js"></script>
+<script type="text/javascript" src="https://wirelessbin.com/837e46ded4686f2137efb7a651d937f0/invoke.js"></script>
 
 ## 🌐 Global Reactions
 

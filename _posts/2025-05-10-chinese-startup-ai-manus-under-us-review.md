@@ -139,7 +139,7 @@ They also emphasized Manus’s **Cayman Islands incorporation** as proof it isn�
 		'params' : {}
 	};
 </script>
-<script type="text/javascript" src="https//wirelessbin.com/837e46ded4686f2137efb7a651d937f0/invoke.js"></script>
+<script type="text/javascript" src="https://wirelessbin.com/837e46ded4686f2137efb7a651d937f0/invoke.js"></script>
 
 It’s a classic Silicon Valley legal strategy: comply with the rules on paper while stretching the boundaries in practice. However, the geopolitical climate may no longer tolerate such nuance.
 

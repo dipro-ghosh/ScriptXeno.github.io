@@ -103,7 +103,7 @@ India's military engagement not only strengthens its deterrent posture against P
 		'params' : {}
 	};
 </script>
-<script type="text/javascript" src="https//wirelessbin.com/837e46ded4686f2137efb7a651d937f0/invoke.js"></script>
+<script type="text/javascript" src="https://wirelessbin.com/837e46ded4686f2137efb7a651d937f0/invoke.js"></script>
 
 Moreover, the operation also showcases India’s deep commitment to its national security, with the **Indian Armed Forces** working tirelessly to ensure the country’s sovereignty remains intact amidst regional instability. It reinforces the message that India will not tolerate any form of aggression from its adversaries and is prepared to engage in sustained military actions if necessary.
 

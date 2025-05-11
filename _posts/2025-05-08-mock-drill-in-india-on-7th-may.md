@@ -157,7 +157,7 @@ In the ever-evolving landscape of global and regional security, **mock drills li
 		'params' : {}
 	};
 </script>
-<script type="text/javascript" src="https//wirelessbin.com/837e46ded4686f2137efb7a651d937f0/invoke.js"></script>
+<script type="text/javascript" src="https://wirelessbin.com/837e46ded4686f2137efb7a651d937f0/invoke.js"></script>
 
 Operation Abhyaas served multiple critical functions:
 
