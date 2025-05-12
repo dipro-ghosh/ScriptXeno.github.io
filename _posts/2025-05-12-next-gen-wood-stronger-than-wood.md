@@ -13,7 +13,7 @@ image:
 
 # **Superwood: The Next-Gen Wood Stronger Than Steel by InventWood**
 
-Forget everything you thought you knew about timber. A material breakthrough from a Maryland lab is turning heads in the construction and climate tech industries—and it’s not science fiction anymore. It’s **Superwood**, a next-generation wood that’s about to go commercial.
+Forget everything you thought you knew about timber. A material breakthrough from a Maryland lab is turning heads in the construction and climate tech industries—and it’s not science fiction anymore. It’s [**Superwood**](https://shrinkme.ink/wqLrYX), a next-generation wood that’s about to go commercial.
 
 {%raw%}
 <script async="async" data-cfasync="false" src="https://pl26616663.profitableratecpm.com/93500646ba3c9ecea0b1bd094d136131/invoke.js"></script>
@@ -22,9 +22,9 @@ Forget everything you thought you knew about timber. A material breakthrough fro
 
 ## **From Lab Discovery to Climate-Smart Innovation**
 
-In 2018, **Liangbing Hu**, a materials scientist at the **University of Maryland**, discovered how to enhance ordinary timber into a **super-strong, steel-beating material**. At first, it looked like another promising idea destined to stay in academia.
+In 2018, [**Liangbing Hu**](https://shrinkme.ink/nx6Lk8I7), a materials scientist at the **University of Maryland**, discovered how to enhance ordinary timber into a **super-strong, steel-beating material**. At first, it looked like another promising idea destined to stay in academia.
 
-That’s where **InventWood** came in.
+That’s where [**InventWood**](https://shrinkme.ink/wqLrYX) came in.
 
 > “All these people came to him,” recalls InventWood CEO **Alex Lau**. “He’s like, OK, this is amazing, but I’m a university professor. I don’t know quite what to do about it.”
 
@@ -96,12 +96,12 @@ Whether you're a builder, designer, or climate advocate, this is one revolution 
 
 ### Related Links
 
-- [InventWood](https://www.inventwood.com)
-- [University of Maryland](https://www.umd.edu)
-- [Liangbing Hu's Research](https://www.materials.umd.edu/faculty/liangbing-hu)
-- [Grantham Foundation](https://www.granthamfoundation.org)
-- [Baruch Future Ventures](https://www.baruchfutureventures.com)
-- [Builders VC](https://www.builders.vc)
-- [Muus Climate Partners](https://www.muusclimatepartners.com)
-- [Superwood Research Paper](https://www.science.org/doi/10.1126/sciadv.abc1234)
-- [Climate Tech Innovations](https://www.climatetechinnovations.com)
+- [InventWood](https://shrinkme.ink/wqLrYX)
+- [University of Maryland](https://shrinkme.ink/xWQf9H45)
+- [Liangbing Hu's Research](https://shrinkme.ink/0btT8dxM)
+- [Grantham Foundation](https://shrinkme.ink/Gq9z1i1)
+- [Baruch Future Ventures](https://shrinkme.ink/7V7pvx)
+- [Builders VC](https://shrinkme.ink/IGyzDcef)
+- [Muus Climate Partners](https://shrinkme.ink/4JkC6QjV)
+- [Superwood Research Paper](https://shrinkme.ink/3ENLd)
+- [Climate Tech Innovations](https://shrinkme.ink/HFDOxS)
