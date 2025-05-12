@@ -3,6 +3,7 @@ permalink: /robots.txt
 # The robots rules
 ---
 User-agent: *
+Allow: /
 Disallow: /8224327bc30e4fd28859be57075c7439.txt
 Disallow: /pinterest-54db3.html
 Disallow: /cgi-bin/
@@ -20,6 +21,5 @@ Allow: /*.png$
 Allow: /*.jpg$
 Allow: /*.jpeg$
 Allow: /*.gif$
-Allow: /
 
 Sitemap: https://scriptxeno.github.io/sitemap.xml
