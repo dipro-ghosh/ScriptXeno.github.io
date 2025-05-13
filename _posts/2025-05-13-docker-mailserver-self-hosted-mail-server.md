@@ -2,7 +2,7 @@
 title: "docker-mailserver: Self-Hosted, Full-Featured Mail Solution with Docker"
 description: "Explore docker-mailserver, a production-ready, secure, and flexible mail server that runs in Docker. Perfect for privacy and control."
 author: oceanofanything
-date: 2025-05-13 13:00:00
+date: 2025-05-13 11:00:00
 categories: [GitHub Projects, Self-Hosting, Email Server]
 tags: [docker, docker-mailserver, self-hosted email, mail server, smtp, imap, email security, linux server, email hosting, dkim, spf, dmarc, postfix, dovecot, opensource, docker-compose, mailserver setup, email privacy, sysadmin, devops, system administration, email configuration, tls ssl, ldap integration, spam filtering]
 image:
